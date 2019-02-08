@@ -388,7 +388,10 @@ footer p {
     }
 
     #skills {
+        background: #151515 url(http://xanaesandro.com/assets/images/back1.jpg) no-repeat center center;
+        /*
         background: #151515 url(https://images.unsplash.com/photo-1456983933114-c22026990f4b?dpr=2&auto=format&crop=entropy&fit=crop&w=1280&h=720&q=80) no-repeat center center;
+        */
         background-position: top center;
 
     }
